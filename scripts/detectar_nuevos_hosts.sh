@@ -5,8 +5,8 @@ CONFIG_FILE="/home/waidroc/Tools/periodicNetworkDiscovery/configs/redes_a_monito
 KNOWN_HOSTS_DIR="/home/waidroc/Tools/periodicNetworkDiscovery/output/known_hosts"
 KNOWN_DEVICES_FILE="/home/waidroc/Tools/periodicNetworkDiscovery/output/dispositivos_conocidos.txt"
 LOG_DIR="/home/waidroc/Tools/periodicNetworkDiscovery/output/logs"
-BOT_TOKEN="7710350394:AAFX9WI9wXHXaEVUJLlwSzW12WkbJOkfUYg"
-CHAT_ID="6965910510"
+BOT_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+CHAT_ID="xxxxxxxxxx"
 
 # Crear directorios y archivo de dispositivos conocidos si no existen
 mkdir -p $KNOWN_HOSTS_DIR $LOG_DIR
